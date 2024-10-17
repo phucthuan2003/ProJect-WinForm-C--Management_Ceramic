@@ -163,6 +163,16 @@ namespace GUI_QuanLy.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Thoat {
+            get {
+                object obj = ResourceManager.GetObject("Thoat", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap ThongKe {
             get {
                 object obj = ResourceManager.GetObject("ThongKe", resourceCulture);

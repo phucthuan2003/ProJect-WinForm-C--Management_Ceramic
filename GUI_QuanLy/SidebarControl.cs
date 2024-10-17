@@ -186,6 +186,8 @@ namespace GUI_QuanLy
             picTK.Location = new Point(picTK.Location.X, picTK.Location.Y + offsetY);
             picKH.Location = new Point(picKH.Location.X, picKH.Location.Y + offsetY);
             picNCC.Location = new Point(picNCC.Location.X, picNCC.Location.Y + offsetY);
+            btnThoat.Location = new Point(btnThoat.Location.X, btnThoat.Location.Y + offsetY);
+
         }
         private void MoveButtons1(int offsetY)
         {
@@ -196,6 +198,7 @@ namespace GUI_QuanLy
             btnThongKe.Location = new Point(btnThongKe.Location.X, btnThongKe.Location.Y + offsetY);
             picTK.Location = new Point(picTK.Location.X, picTK.Location.Y + offsetY);
             picKH.Location = new Point(picKH.Location.X, picKH.Location.Y + offsetY);
+            btnThoat.Location = new Point(btnThoat.Location.X, btnThoat.Location.Y + offsetY);
             picNCC.Location = new Point(picNCC.Location.X, picNCC.Location.Y + offsetY);
         }
         private void MoveButtons2(int offsetY)
@@ -204,6 +207,7 @@ namespace GUI_QuanLy
             picNCC.Location = new Point(picNCC.Location.X, picNCC.Location.Y + offsetY);
             btnThongKe.Location = new Point(btnThongKe.Location.X, btnThongKe.Location.Y + offsetY);
             picTK.Location = new Point(picTK.Location.X,picTK.Location.Y + offsetY);
+            btnThoat.Location = new Point(btnThoat.Location.X, btnThoat.Location.Y + offsetY);
         }
     }
     }
