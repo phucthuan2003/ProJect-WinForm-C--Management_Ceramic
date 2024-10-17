@@ -1,120 +1,44 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\GUI_QuanLy\\",
+  "WorkspaceRootPath": "F:\\Test\\BTL_LTTQ\\GUI_QuanLy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5782BF1D-BD9C-4178-ABED-3FD460C371B0}|GUI_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\gui_quanly\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5782BF1D-BD9C-4178-ABED-3FD460C371B0}|GUI_QuanLy.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5782BF1D-BD9C-4178-ABED-3FD460C371B0}|GUI_QuanLy.csproj|f:\\test\\btl_lttq\\gui_quanly\\sidebarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5782BF1D-BD9C-4178-ABED-3FD460C371B0}|GUI_QuanLy.csproj|solutionrelative:sidebarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5782BF1D-BD9C-4178-ABED-3FD460C371B0}|GUI_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\gui_quanly\\sidebarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5782BF1D-BD9C-4178-ABED-3FD460C371B0}|GUI_QuanLy.csproj|f:\\test\\btl_lttq\\gui_quanly\\sidebarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5782BF1D-BD9C-4178-ABED-3FD460C371B0}|GUI_QuanLy.csproj|solutionrelative:sidebarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5782BF1D-BD9C-4178-ABED-3FD460C371B0}|GUI_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\gui_quanly\\headercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5782BF1D-BD9C-4178-ABED-3FD460C371B0}|GUI_QuanLy.csproj|f:\\test\\btl_lttq\\gui_quanly\\headercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5782BF1D-BD9C-4178-ABED-3FD460C371B0}|GUI_QuanLy.csproj|solutionrelative:headercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5782BF1D-BD9C-4178-ABED-3FD460C371B0}|GUI_QuanLy.csproj|f:\\test\\btl_lttq\\gui_quanly\\sidebarcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5782BF1D-BD9C-4178-ABED-3FD460C371B0}|GUI_QuanLy.csproj|solutionrelative:sidebarcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C903AD16-2FD9-434E-852C-6D87EE645889}|..\\BUS_QuanLy\\BUS_QuanLy.csproj|f:\\test\\btl_lttq\\bus_quanly\\bus_hoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5782BF1D-BD9C-4178-ABED-3FD460C371B0}|GUI_QuanLy.csproj|f:\\test\\btl_lttq\\gui_quanly\\headercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5782BF1D-BD9C-4178-ABED-3FD460C371B0}|GUI_QuanLy.csproj|solutionrelative:headercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C903AD16-2FD9-434E-852C-6D87EE645889}|..\\BUS_QuanLy\\BUS_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\bus_quanly\\bus_hoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5782BF1D-BD9C-4178-ABED-3FD460C371B0}|GUI_QuanLy.csproj|f:\\test\\btl_lttq\\gui_quanly\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5782BF1D-BD9C-4178-ABED-3FD460C371B0}|GUI_QuanLy.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35F41E70-B66D-41E3-BC6C-DAF40A2910A1}|..\\DAL_QuanLy\\DAL_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dal_quanly\\dal_hoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5782BF1D-BD9C-4178-ABED-3FD460C371B0}|GUI_QuanLy.csproj|f:\\test\\btl_lttq\\gui_quanly\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5782BF1D-BD9C-4178-ABED-3FD460C371B0}|GUI_QuanLy.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35F41E70-B66D-41E3-BC6C-DAF40A2910A1}|..\\DAL_QuanLy\\DAL_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dal_quanly\\dal_congdung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5782BF1D-BD9C-4178-ABED-3FD460C371B0}|GUI_QuanLy.csproj|f:\\test\\btl_lttq\\gui_quanly\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5782BF1D-BD9C-4178-ABED-3FD460C371B0}|GUI_QuanLy.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35F41E70-B66D-41E3-BC6C-DAF40A2910A1}|..\\DAL_QuanLy\\DAL_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dal_quanly\\dal_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35F41E70-B66D-41E3-BC6C-DAF40A2910A1}|..\\DAL_QuanLy\\DAL_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dal_quanly\\dal_nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35F41E70-B66D-41E3-BC6C-DAF40A2910A1}|..\\DAL_QuanLy\\DAL_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dal_quanly\\dal_loaimen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35F41E70-B66D-41E3-BC6C-DAF40A2910A1}|..\\DAL_QuanLy\\DAL_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dal_quanly\\dal_loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35F41E70-B66D-41E3-BC6C-DAF40A2910A1}|..\\DAL_QuanLy\\DAL_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dal_quanly\\dal_congviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35F41E70-B66D-41E3-BC6C-DAF40A2910A1}|..\\DAL_QuanLy\\DAL_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dal_quanly\\dal_kichthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35F41E70-B66D-41E3-BC6C-DAF40A2910A1}|..\\DAL_QuanLy\\DAL_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dal_quanly\\dal_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35F41E70-B66D-41E3-BC6C-DAF40A2910A1}|..\\DAL_QuanLy\\DAL_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dal_quanly\\dal_hoavan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35F41E70-B66D-41E3-BC6C-DAF40A2910A1}|..\\DAL_QuanLy\\DAL_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dal_quanly\\dal_hinhkhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35F41E70-B66D-41E3-BC6C-DAF40A2910A1}|..\\DAL_QuanLy\\DAL_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dal_quanly\\dal_hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35F41E70-B66D-41E3-BC6C-DAF40A2910A1}|..\\DAL_QuanLy\\DAL_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dal_quanly\\dal_hoadonnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35F41E70-B66D-41E3-BC6C-DAF40A2910A1}|..\\DAL_QuanLy\\DAL_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dal_quanly\\dal_nuocsanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35F41E70-B66D-41E3-BC6C-DAF40A2910A1}|..\\DAL_QuanLy\\DAL_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dal_quanly\\dal_chitiethoadonnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35F41E70-B66D-41E3-BC6C-DAF40A2910A1}|..\\DAL_QuanLy\\DAL_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dal_quanly\\dal_chitiethoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{553F1F4D-6FC1-49F4-96B1-26DAEFD29431}|..\\DTO_QuanLy\\DTO_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dto_quanly\\dto_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{553F1F4D-6FC1-49F4-96B1-26DAEFD29431}|..\\DTO_QuanLy\\DTO_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dto_quanly\\dto_nuocsanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{553F1F4D-6FC1-49F4-96B1-26DAEFD29431}|..\\DTO_QuanLy\\DTO_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dto_quanly\\dto_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{553F1F4D-6FC1-49F4-96B1-26DAEFD29431}|..\\DTO_QuanLy\\DTO_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dto_quanly\\dto_nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{553F1F4D-6FC1-49F4-96B1-26DAEFD29431}|..\\DTO_QuanLy\\DTO_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dto_quanly\\dto_mausac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{553F1F4D-6FC1-49F4-96B1-26DAEFD29431}|..\\DTO_QuanLy\\DTO_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dto_quanly\\dto_loaimen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{553F1F4D-6FC1-49F4-96B1-26DAEFD29431}|..\\DTO_QuanLy\\DTO_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dto_quanly\\dto_loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{553F1F4D-6FC1-49F4-96B1-26DAEFD29431}|..\\DTO_QuanLy\\DTO_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dto_quanly\\dto_kichthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{553F1F4D-6FC1-49F4-96B1-26DAEFD29431}|..\\DTO_QuanLy\\DTO_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dto_quanly\\dto_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{553F1F4D-6FC1-49F4-96B1-26DAEFD29431}|..\\DTO_QuanLy\\DTO_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dto_quanly\\dto_hoavan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{553F1F4D-6FC1-49F4-96B1-26DAEFD29431}|..\\DTO_QuanLy\\DTO_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dto_quanly\\dto_hoadonnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{553F1F4D-6FC1-49F4-96B1-26DAEFD29431}|..\\DTO_QuanLy\\DTO_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dto_quanly\\dto_hoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{553F1F4D-6FC1-49F4-96B1-26DAEFD29431}|..\\DTO_QuanLy\\DTO_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dto_quanly\\dto_hinhkhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{553F1F4D-6FC1-49F4-96B1-26DAEFD29431}|..\\DTO_QuanLy\\DTO_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dto_quanly\\dto_hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{553F1F4D-6FC1-49F4-96B1-26DAEFD29431}|..\\DTO_QuanLy\\DTO_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dto_quanly\\dto_congviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{553F1F4D-6FC1-49F4-96B1-26DAEFD29431}|..\\DTO_QuanLy\\DTO_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dto_quanly\\dto_congdung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{553F1F4D-6FC1-49F4-96B1-26DAEFD29431}|..\\DTO_QuanLy\\DTO_QuanLy.csproj|c:\\users\\dundun\\source\\repos\\btl_lttq\\dto_quanly\\dto_chitiethoadonnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35F41E70-B66D-41E3-BC6C-DAF40A2910A1}|..\\DAL_QuanLy\\DAL_QuanLy.csproj|f:\\test\\btl_lttq\\dal_quanly\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -124,7 +48,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -151,482 +75,135 @@
               "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SidebarControl.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\GUI_QuanLy\\SidebarControl.cs",
-              "RelativeDocumentMoniker": "SidebarControl.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\GUI_QuanLy\\SidebarControl.cs [Design]",
-              "RelativeToolTip": "SidebarControl.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:13:22.999Z",
-              "EditorCaption": " [Design]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HeaderControl.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\GUI_QuanLy\\HeaderControl.cs",
-              "RelativeDocumentMoniker": "HeaderControl.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\GUI_QuanLy\\HeaderControl.cs [Design]",
-              "RelativeToolTip": "HeaderControl.cs [Design]",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "F:\\Test\\BTL_LTTQ\\GUI_QuanLy\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "F:\\Test\\BTL_LTTQ\\GUI_QuanLy\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAD4vyEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:12:59.332Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BUS_HoaDonBan.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\BUS_QuanLy\\BUS_HoaDonBan.cs",
-              "RelativeDocumentMoniker": "..\\BUS_QuanLy\\BUS_HoaDonBan.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\BUS_QuanLy\\BUS_HoaDonBan.cs",
-              "RelativeToolTip": "..\\BUS_QuanLy\\BUS_HoaDonBan.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:11:09.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DAL_HoaDonBan.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_HoaDonBan.cs",
-              "RelativeDocumentMoniker": "..\\DAL_QuanLy\\DAL_HoaDonBan.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_HoaDonBan.cs",
-              "RelativeToolTip": "..\\DAL_QuanLy\\DAL_HoaDonBan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:05:17.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\GUI_QuanLy\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\GUI_QuanLy\\Form1.cs [Design]*",
-              "RelativeToolTip": "Form1.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:34:15.326Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DAL_CongDung.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_CongDung.cs",
-              "RelativeDocumentMoniker": "..\\DAL_QuanLy\\DAL_CongDung.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_CongDung.cs",
-              "RelativeToolTip": "..\\DAL_QuanLy\\DAL_CongDung.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:09:44.166Z",
+              "WhenOpened": "2024-10-17T02:52:42.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "DAL_NhanVien.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_NhanVien.cs",
-              "RelativeDocumentMoniker": "..\\DAL_QuanLy\\DAL_NhanVien.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_NhanVien.cs",
-              "RelativeToolTip": "..\\DAL_QuanLy\\DAL_NhanVien.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Test\\BTL_LTTQ\\GUI_QuanLy\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\Test\\BTL_LTTQ\\GUI_QuanLy\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:08:32.291Z",
+              "WhenOpened": "2024-10-17T02:45:22.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "DAL_NhaCungCap.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_NhaCungCap.cs",
-              "RelativeDocumentMoniker": "..\\DAL_QuanLy\\DAL_NhaCungCap.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_NhaCungCap.cs",
-              "RelativeToolTip": "..\\DAL_QuanLy\\DAL_NhaCungCap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\Test\\BTL_LTTQ\\GUI_QuanLy\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\Test\\BTL_LTTQ\\GUI_QuanLy\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:08:22.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T02:21:38.647Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DAL_LoaiMen.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_LoaiMen.cs",
-              "RelativeDocumentMoniker": "..\\DAL_QuanLy\\DAL_LoaiMen.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_LoaiMen.cs",
-              "RelativeToolTip": "..\\DAL_QuanLy\\DAL_LoaiMen.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "SidebarControl.cs [Design]",
+              "DocumentMoniker": "F:\\Test\\BTL_LTTQ\\GUI_QuanLy\\SidebarControl.cs",
+              "RelativeDocumentMoniker": "SidebarControl.cs",
+              "ToolTip": "F:\\Test\\BTL_LTTQ\\GUI_QuanLy\\SidebarControl.cs [Design]*",
+              "RelativeToolTip": "SidebarControl.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:07:51.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T02:06:29.598Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "DAL_Loai.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_Loai.cs",
-              "RelativeDocumentMoniker": "..\\DAL_QuanLy\\DAL_Loai.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_Loai.cs",
-              "RelativeToolTip": "..\\DAL_QuanLy\\DAL_Loai.cs",
+              "Title": "DBConnect.cs",
+              "DocumentMoniker": "F:\\Test\\BTL_LTTQ\\DAL_QuanLy\\DBConnect.cs",
+              "RelativeDocumentMoniker": "..\\DAL_QuanLy\\DBConnect.cs",
+              "ToolTip": "F:\\Test\\BTL_LTTQ\\DAL_QuanLy\\DBConnect.cs",
+              "RelativeToolTip": "..\\DAL_QuanLy\\DBConnect.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:07:42.709Z",
+              "WhenOpened": "2024-10-17T02:04:45.608Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DAL_CongViec.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_CongViec.cs",
-              "RelativeDocumentMoniker": "..\\DAL_QuanLy\\DAL_CongViec.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_CongViec.cs",
-              "RelativeToolTip": "..\\DAL_QuanLy\\DAL_CongViec.cs",
+              "DocumentIndex": 4,
+              "Title": "BUS_HoaDonBan.cs",
+              "DocumentMoniker": "F:\\Test\\BTL_LTTQ\\BUS_QuanLy\\BUS_HoaDonBan.cs",
+              "RelativeDocumentMoniker": "..\\BUS_QuanLy\\BUS_HoaDonBan.cs",
+              "ToolTip": "F:\\Test\\BTL_LTTQ\\BUS_QuanLy\\BUS_HoaDonBan.cs",
+              "RelativeToolTip": "..\\BUS_QuanLy\\BUS_HoaDonBan.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:07:32.442Z",
+              "WhenOpened": "2024-10-17T02:04:24.097Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DAL_KichThuoc.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_KichThuoc.cs",
-              "RelativeDocumentMoniker": "..\\DAL_QuanLy\\DAL_KichThuoc.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_KichThuoc.cs",
-              "RelativeToolTip": "..\\DAL_QuanLy\\DAL_KichThuoc.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "SidebarControl.Designer.cs",
+              "DocumentMoniker": "F:\\Test\\BTL_LTTQ\\GUI_QuanLy\\SidebarControl.Designer.cs",
+              "RelativeDocumentMoniker": "SidebarControl.Designer.cs",
+              "ToolTip": "F:\\Test\\BTL_LTTQ\\GUI_QuanLy\\SidebarControl.Designer.cs*",
+              "RelativeToolTip": "SidebarControl.Designer.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:07:03.917Z",
+              "WhenOpened": "2024-10-17T01:59:11.37Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DAL_KhachHang.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_KhachHang.cs",
-              "RelativeDocumentMoniker": "..\\DAL_QuanLy\\DAL_KhachHang.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_KhachHang.cs",
-              "RelativeToolTip": "..\\DAL_QuanLy\\DAL_KhachHang.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "HeaderControl.Designer.cs",
+              "DocumentMoniker": "F:\\Test\\BTL_LTTQ\\GUI_QuanLy\\HeaderControl.Designer.cs",
+              "RelativeDocumentMoniker": "HeaderControl.Designer.cs",
+              "ToolTip": "F:\\Test\\BTL_LTTQ\\GUI_QuanLy\\HeaderControl.Designer.cs",
+              "RelativeToolTip": "HeaderControl.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:06:47.618Z",
+              "WhenOpened": "2024-10-17T01:58:41.809Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DAL_HoaVan.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_HoaVan.cs",
-              "RelativeDocumentMoniker": "..\\DAL_QuanLy\\DAL_HoaVan.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_HoaVan.cs",
-              "RelativeToolTip": "..\\DAL_QuanLy\\DAL_HoaVan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SidebarControl.cs",
+              "DocumentMoniker": "F:\\Test\\BTL_LTTQ\\GUI_QuanLy\\SidebarControl.cs",
+              "RelativeDocumentMoniker": "SidebarControl.cs",
+              "ToolTip": "F:\\Test\\BTL_LTTQ\\GUI_QuanLy\\SidebarControl.cs*",
+              "RelativeToolTip": "SidebarControl.cs*",
+              "ViewState": "AgIAALIAAAAAAAAAAAAawLgAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:06:34.39Z",
+              "WhenOpened": "2024-10-17T01:06:41.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DAL_HinhKhoi.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_HinhKhoi.cs",
-              "RelativeDocumentMoniker": "..\\DAL_QuanLy\\DAL_HinhKhoi.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_HinhKhoi.cs",
-              "RelativeToolTip": "..\\DAL_QuanLy\\DAL_HinhKhoi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "HeaderControl.cs [Design]",
+              "DocumentMoniker": "F:\\Test\\BTL_LTTQ\\GUI_QuanLy\\HeaderControl.cs",
+              "RelativeDocumentMoniker": "HeaderControl.cs",
+              "ToolTip": "F:\\Test\\BTL_LTTQ\\GUI_QuanLy\\HeaderControl.cs [Design]",
+              "RelativeToolTip": "HeaderControl.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:06:22.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DAL_HangHoa.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_HangHoa.cs",
-              "RelativeDocumentMoniker": "..\\DAL_QuanLy\\DAL_HangHoa.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_HangHoa.cs",
-              "RelativeToolTip": "..\\DAL_QuanLy\\DAL_HangHoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:06:08.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DAL_HoaDonNhap.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_HoaDonNhap.cs",
-              "RelativeDocumentMoniker": "..\\DAL_QuanLy\\DAL_HoaDonNhap.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_HoaDonNhap.cs",
-              "RelativeToolTip": "..\\DAL_QuanLy\\DAL_HoaDonNhap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:05:30.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DAL_NuocSanXuat.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_NuocSanXuat.cs",
-              "RelativeDocumentMoniker": "..\\DAL_QuanLy\\DAL_NuocSanXuat.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_NuocSanXuat.cs",
-              "RelativeToolTip": "..\\DAL_QuanLy\\DAL_NuocSanXuat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:04:52.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "DAL_ChiTietHoaDonNhap.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_ChiTietHoaDonNhap.cs",
-              "RelativeDocumentMoniker": "..\\DAL_QuanLy\\DAL_ChiTietHoaDonNhap.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_ChiTietHoaDonNhap.cs",
-              "RelativeToolTip": "..\\DAL_QuanLy\\DAL_ChiTietHoaDonNhap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:02:36.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "DAL_ChiTietHoaDonBan.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_ChiTietHoaDonBan.cs",
-              "RelativeDocumentMoniker": "..\\DAL_QuanLy\\DAL_ChiTietHoaDonBan.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DAL_QuanLy\\DAL_ChiTietHoaDonBan.cs",
-              "RelativeToolTip": "..\\DAL_QuanLy\\DAL_ChiTietHoaDonBan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T10:02:09.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "DTO_NuocSanXuat.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_NuocSanXuat.cs",
-              "RelativeDocumentMoniker": "..\\DTO_QuanLy\\DTO_NuocSanXuat.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_NuocSanXuat.cs",
-              "RelativeToolTip": "..\\DTO_QuanLy\\DTO_NuocSanXuat.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:44:31.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "DTO_TaiKhoan.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_TaiKhoan.cs",
-              "RelativeDocumentMoniker": "..\\DTO_QuanLy\\DTO_TaiKhoan.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_TaiKhoan.cs",
-              "RelativeToolTip": "..\\DTO_QuanLy\\DTO_TaiKhoan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwA8AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:44:46.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "DTO_NhanVien.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_NhanVien.cs",
-              "RelativeDocumentMoniker": "..\\DTO_QuanLy\\DTO_NhanVien.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_NhanVien.cs",
-              "RelativeToolTip": "..\\DTO_QuanLy\\DTO_NhanVien.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA0wDAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:44:14.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "DTO_NhaCungCap.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_NhaCungCap.cs",
-              "RelativeDocumentMoniker": "..\\DTO_QuanLy\\DTO_NhaCungCap.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_NhaCungCap.cs",
-              "RelativeToolTip": "..\\DTO_QuanLy\\DTO_NhaCungCap.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA0wDAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:44:01.044Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "DTO_MauSac.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_MauSac.cs",
-              "RelativeDocumentMoniker": "..\\DTO_QuanLy\\DTO_MauSac.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_MauSac.cs",
-              "RelativeToolTip": "..\\DTO_QuanLy\\DTO_MauSac.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:43:42.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "DTO_LoaiMen.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_LoaiMen.cs",
-              "RelativeDocumentMoniker": "..\\DTO_QuanLy\\DTO_LoaiMen.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_LoaiMen.cs",
-              "RelativeToolTip": "..\\DTO_QuanLy\\DTO_LoaiMen.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:43:30.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "DTO_Loai.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_Loai.cs",
-              "RelativeDocumentMoniker": "..\\DTO_QuanLy\\DTO_Loai.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_Loai.cs",
-              "RelativeToolTip": "..\\DTO_QuanLy\\DTO_Loai.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAUwCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:43:20.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "DTO_KichThuoc.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_KichThuoc.cs",
-              "RelativeDocumentMoniker": "..\\DTO_QuanLy\\DTO_KichThuoc.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_KichThuoc.cs",
-              "RelativeToolTip": "..\\DTO_QuanLy\\DTO_KichThuoc.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAUwCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:43:09.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "DTO_KhachHang.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_KhachHang.cs",
-              "RelativeDocumentMoniker": "..\\DTO_QuanLy\\DTO_KhachHang.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_KhachHang.cs",
-              "RelativeToolTip": "..\\DTO_QuanLy\\DTO_KhachHang.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA0wDAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:42:56.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "DTO_HoaVan.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_HoaVan.cs",
-              "RelativeDocumentMoniker": "..\\DTO_QuanLy\\DTO_HoaVan.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_HoaVan.cs",
-              "RelativeToolTip": "..\\DTO_QuanLy\\DTO_HoaVan.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwCAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:42:44.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "DTO_HoaDonNhap.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_HoaDonNhap.cs",
-              "RelativeDocumentMoniker": "..\\DTO_QuanLy\\DTO_HoaDonNhap.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_HoaDonNhap.cs",
-              "RelativeToolTip": "..\\DTO_QuanLy\\DTO_HoaDonNhap.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:42:29.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "DTO_HoaDonBan.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_HoaDonBan.cs",
-              "RelativeDocumentMoniker": "..\\DTO_QuanLy\\DTO_HoaDonBan.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_HoaDonBan.cs",
-              "RelativeToolTip": "..\\DTO_QuanLy\\DTO_HoaDonBan.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:42:14.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "DTO_HinhKhoi.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_HinhKhoi.cs",
-              "RelativeDocumentMoniker": "..\\DTO_QuanLy\\DTO_HinhKhoi.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_HinhKhoi.cs",
-              "RelativeToolTip": "..\\DTO_QuanLy\\DTO_HinhKhoi.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:41:58.669Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "DTO_HangHoa.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_HangHoa.cs",
-              "RelativeDocumentMoniker": "..\\DTO_QuanLy\\DTO_HangHoa.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_HangHoa.cs",
-              "RelativeToolTip": "..\\DTO_QuanLy\\DTO_HangHoa.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAA0wDwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:41:47.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "DTO_CongViec.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_CongViec.cs",
-              "RelativeDocumentMoniker": "..\\DTO_QuanLy\\DTO_CongViec.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_CongViec.cs",
-              "RelativeToolTip": "..\\DTO_QuanLy\\DTO_CongViec.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:41:27.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "DTO_CongDung.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_CongDung.cs",
-              "RelativeDocumentMoniker": "..\\DTO_QuanLy\\DTO_CongDung.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_CongDung.cs",
-              "RelativeToolTip": "..\\DTO_QuanLy\\DTO_CongDung.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAUwCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:41:13.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "DTO_ChiTietHoaDonNhap.cs",
-              "DocumentMoniker": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_ChiTietHoaDonNhap.cs",
-              "RelativeDocumentMoniker": "..\\DTO_QuanLy\\DTO_ChiTietHoaDonNhap.cs",
-              "ToolTip": "C:\\Users\\dundun\\source\\repos\\BTL_LTTQ\\DTO_QuanLy\\DTO_ChiTietHoaDonNhap.cs",
-              "RelativeToolTip": "..\\DTO_QuanLy\\DTO_ChiTietHoaDonNhap.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:40:55.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T01:02:29.781Z",
+              "EditorCaption": " [Design]"
             }
           ]
         },
