@@ -6,12 +6,25 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+<<<<<<< HEAD
+=======
+using System.Security.Cryptography.X509Certificates;
+>>>>>>> old-project/Thuan1
 
 namespace DAL_QuanLy
 {
     public class DAL_HoaDonBan : DBConnect
+<<<<<<< HEAD
     {
         public DAL_HoaDonBan() { }
+=======
+    {   
+        
+        public DAL_HoaDonBan() 
+        {
+           
+        }
+>>>>>>> old-project/Thuan1
         // Phuong thuc tra ve toan bo danh sach hdb tu bang HDB
         public DataTable getHoaDonBan()
         {
@@ -19,6 +32,10 @@ namespace DAL_QuanLy
             DataTable dtHDB = new DataTable();
             da.Fill(dtHDB);
             return dtHDB;
+<<<<<<< HEAD
+=======
+
+>>>>>>> old-project/Thuan1
         }
 
         // Phương thức sinh mã hóa đơn bán
@@ -107,6 +124,7 @@ namespace DAL_QuanLy
 
             return false;
         }
+<<<<<<< HEAD
         public DataTable GetTotalRevenue()
         {
             string query = "SELECT SUM(TongTien) AS Bang3 FROM HoaDonBan";
@@ -153,6 +171,66 @@ namespace DAL_QuanLy
                 return result;
             }
         }
+=======
+
+        public List<DTO_ReportHD> LayDanhSachHoaDon()
+        {
+            List<DTO_ReportHD> danhSachHoaDon = new List<DTO_ReportHD>();
+
+            using (SqlConnection connection = new SqlConnection("Data Source=DESKTOP-R4RPQKD;Initial Catalog=BTL_6;Integrated Security=True;Encrypt=True"))
+            {
+                string query = @"
+            SELECT 
+                cthd.MaHang,        
+                hh.TenHang AS TenSanPham,   
+                kh.MaKhach AS MaKhachHang,      
+                kh.TenKhach AS TenKhachHang,    
+                cthd.SoLuong,         
+                cthd.DonGiaBan,          
+                (cthd.SoLuong * cthd.DonGiaBan) AS DoanhThu,  
+                hd.NgayBan,           
+                nv.TenNV AS NhanVienLapHoaDon 
+            FROM 
+                ChiTietHoaDonBan cthd
+            JOIN 
+                HoaDonBan hd ON cthd.SoHDB = hd.SoHDB
+            JOIN 
+                KhachHang kh ON hd.MaKhach = kh.MaKhach
+            JOIN 
+                HangHoa hh ON cthd.MaHang = hh.MaHang
+            LEFT JOIN 
+                NhanVien nv ON hd.MaNV = nv.MaNV";
+
+                SqlCommand command = new SqlCommand(query, connection);
+                connection.Open();
+
+                SqlDataReader reader = command.ExecuteReader();
+
+                while (reader.Read())
+                {
+                    DTO_ReportHD hoaDon = new DTO_ReportHD()
+                    {
+                        MaSanPham = reader["MaHang"].ToString(),
+                        TenSanPham = reader["TenSanPham"].ToString(),
+                        MaKhachHang = reader["MaKhachHang"].ToString(),
+                        TenKhachHang = reader["TenKhachHang"].ToString(),
+                        SoLuong = Convert.ToInt32(reader["SoLuong"]),
+                        DonGia = Convert.ToDecimal(reader["DonGiaBan"]),
+                        DoanhThu = Convert.ToDecimal(reader["DoanhThu"]),
+                        NgayBan = Convert.ToDateTime(reader["NgayBan"]),
+                        NhanVienLapHoaDon = reader["NhanVienLapHoaDon"].ToString()
+                    };
+
+                    danhSachHoaDon.Add(hoaDon);
+                }
+
+                reader.Close();
+            }
+
+            return danhSachHoaDon;
+        }
+
+>>>>>>> old-project/Thuan1
     }
 
 }

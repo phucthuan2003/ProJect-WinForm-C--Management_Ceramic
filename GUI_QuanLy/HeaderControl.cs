@@ -16,6 +16,7 @@ namespace GUI_QuanLy
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
 
         private void btnInfo_Click(object sender, EventArgs e)
         {
@@ -30,5 +31,7 @@ namespace GUI_QuanLy
                 parentForm.LoadFormIntoPanel(childForm);
             }
         }
+=======
+>>>>>>> old-project/Thuan1
     }
 }

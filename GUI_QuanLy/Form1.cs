@@ -1,5 +1,15 @@
 ﻿using System;
+<<<<<<< HEAD
 using System.Drawing;
+=======
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+>>>>>>> old-project/Thuan1
 using System.Windows.Forms;
 
 namespace GUI_QuanLy
@@ -9,6 +19,7 @@ namespace GUI_QuanLy
         public Form1()
         {
             InitializeComponent();
+<<<<<<< HEAD
             LoadHomePage();
         }
 
@@ -17,11 +28,17 @@ namespace GUI_QuanLy
             HomePage homePage = new HomePage();
             LoadFormIntoPanel(homePage);
         }
+=======
+        }
+
+
+>>>>>>> old-project/Thuan1
 
         private void button1_Click_1(object sender, EventArgs e)
         {
             this.WindowState = FormWindowState.Maximized;
         }
+<<<<<<< HEAD
 
         public void LoadFormIntoPanel(Form childForm)
         {
@@ -38,3 +55,7 @@ namespace GUI_QuanLy
         
     }
 }
+=======
+    }
+}
+>>>>>>> old-project/Thuan1

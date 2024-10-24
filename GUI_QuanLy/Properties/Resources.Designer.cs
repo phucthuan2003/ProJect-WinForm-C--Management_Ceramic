@@ -63,6 +63,7 @@ namespace GUI_QuanLy.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap angela {
             get {
                 object obj = ResourceManager.GetObject("angela", resourceCulture);
@@ -73,6 +74,8 @@ namespace GUI_QuanLy.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+=======
+>>>>>>> old-project/Thuan1
         internal static System.Drawing.Bitmap bell {
             get {
                 object obj = ResourceManager.GetObject("bell", resourceCulture);
@@ -83,6 +86,7 @@ namespace GUI_QuanLy.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap care {
             get {
                 object obj = ResourceManager.GetObject("care", resourceCulture);
@@ -123,6 +127,8 @@ namespace GUI_QuanLy.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+=======
+>>>>>>> old-project/Thuan1
         internal static System.Drawing.Bitmap Hoa_Don {
             get {
                 object obj = ResourceManager.GetObject("Hoa Don", resourceCulture);
@@ -153,6 +159,7 @@ namespace GUI_QuanLy.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap Nen {
             get {
                 object obj = ResourceManager.GetObject("Nen", resourceCulture);
@@ -163,6 +170,8 @@ namespace GUI_QuanLy.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+=======
+>>>>>>> old-project/Thuan1
         internal static System.Drawing.Bitmap Nha_Cung_Cap {
             get {
                 object obj = ResourceManager.GetObject("Nha Cung Cap", resourceCulture);
@@ -183,6 +192,7 @@ namespace GUI_QuanLy.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap remove {
             get {
                 object obj = ResourceManager.GetObject("remove", resourceCulture);
@@ -193,6 +203,8 @@ namespace GUI_QuanLy.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+=======
+>>>>>>> old-project/Thuan1
         internal static System.Drawing.Bitmap San_Pham {
             get {
                 object obj = ResourceManager.GetObject("San Pham", resourceCulture);
@@ -259,6 +271,7 @@ namespace GUI_QuanLy.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+<<<<<<< HEAD
         
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -269,5 +282,7 @@ namespace GUI_QuanLy.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+=======
+>>>>>>> old-project/Thuan1
     }
 }

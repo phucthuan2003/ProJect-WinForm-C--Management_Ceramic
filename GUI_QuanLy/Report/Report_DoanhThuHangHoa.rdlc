@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <AutoRefresh>0</AutoRefresh>
+  <ReportSections>
+    <ReportSection>
+      <Body>
+        <ReportItems>
+          <Textbox Name="Textbox2">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>Báo Cáo Doanh Thu</Value>
+                    <Style>
+                      <FontSize>18pt</FontSize>
+                      <TextDecoration>None</TextDecoration>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Center</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox2</rd:DefaultName>
+            <Top>0.38417in</Top>
+            <Left>0.14458in</Left>
+            <Height>0.39583in</Height>
+            <Width>2.64583in</Width>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+          <Image Name="Image1">
+            <Source>Embedded</Source>
+            <Value>images</Value>
+            <Sizing>FitProportional</Sizing>
+            <Top>0.84944in</Top>
+            <Left>0.25917in</Left>
+            <Height>0.5in</Height>
+            <Width>0.5in</Width>
+            <ZIndex>1</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+            </Style>
+          </Image>
+          <Textbox Name="Textbox3">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>Hóa Đơn Bán Hàng</Value>
+                    <Style>
+                      <FontSize>24pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Center</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox3</rd:DefaultName>
+            <Top>1.16542in</Top>
+            <Left>3.69667in</Left>
+            <Height>0.52083in</Height>
+            <Width>3.28125in</Width>
+            <ZIndex>2</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+        </ReportItems>
+        <Height>8.54167in</Height>
+        <Style />
+      </Body>
+      <Width>11.80208in</Width>
+      <Page>
+        <LeftMargin>1in</LeftMargin>
+        <RightMargin>1in</RightMargin>
+        <TopMargin>1in</TopMargin>
+        <BottomMargin>1in</BottomMargin>
+        <Style />
+      </Page>
+    </ReportSection>
+  </ReportSections>
+  <ReportParameters>
+    <ReportParameter Name="HoaDonBan">
+      <DataType>String</DataType>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+  </ReportParameters>
+  <ReportParametersLayout>
+    <GridLayoutDefinition>
+      <NumberOfColumns>4</NumberOfColumns>
+      <NumberOfRows>2</NumberOfRows>
+      <CellDefinitions>
+        <CellDefinition>
+          <ColumnIndex>0</ColumnIndex>
+          <RowIndex>0</RowIndex>
+          <ParameterName>HoaDonBan</ParameterName>
+        </CellDefinition>
+      </CellDefinitions>
+    </GridLayoutDefinition>
+  </ReportParametersLayout>
+  <EmbeddedImages>
+    <EmbeddedImage Name="images">
+      <MIMEType>image/png</MIMEType>
+      <ImageData>iVBORw0KGgoAAAANSUhEUgAAAM4AAAD0CAMAAADkIOk9AAAAgVBMVEX///8AAAAKCgp7e3vNzc3f398iIiLt7e1WVlb8/Pz5+flERETHx8ePj4/BwcF+fn5JSUk1NTVmZmaurq7n5+f09PQRERG7u7ubm5s/Pz8mJiY6OjrW1tYtLS0yMjKVlZVvb2+jo6OIiIgaGhpqamqzs7NRUVGpqaleXl4cHBx0dHQY0bl3AAAIRklEQVR4nO2daZuyLBSApX3fl2lfp3r6/z/wTQO1PMAxfeHYcH+Zq1KGuxBZDuh5XmXAvoJLxXswtp2N/Ph96NjOQ5543tp2FvJk7VVsZyFPKk6HMDGdUoFJ6vS9AtNP6JRtZykLZadDGKdDGadDGadDmT+r06z0lFSN5lsCWqfHdDRaZrMOgdXB9FXbhvMOgNUZIXQeXVrbYHUWGJ2x4cwnwepcMDo9w5lPgtWZY3QM5x0AXbMd9Tb2L50U9511t9xXcZ0azTgMyVbB/Njd/Vzn6/RfEEWdSVR+R4d0jQ2iOqXI6HRMcU1S1JkyNvdarWnlt1wLslS7NpGnUtTxYjfk6fwc5OoHdyZRnXjuW+PNI1ulOeZMojrd1zfmvtClrj+TjM7k97gV48mz5MhyMDWo/4Fo6Ex2J/9fL/jLLbsnj7k/DjjqEqKgMw+nmPkbA7YHDvM7kDdNUvZ1xrPoHsOvjhtrQEdON9EPKMG2TmXJYvAmwFmW6wZjK2VydnVaZ/YCv9b3rCY5Yc/YQJWgVZ317NVG3G768q7TSJ1BmzoH9s7++UFX0RNsM3aVJ2lR556wEZfMj0KneQovMQB7OuekDZs9m5qPe6a8zblmbCv90JoOZCNq6nlYZUMcFA1SWzpl0IYPNzx0JopzV3JbSzo/sE0Q6uR5HdXl4XlVxs6Sj+zoSCNMduJjZQ/0Lv31rOi0ZDZsFHxe9fOjoB5W6e9k0+lE8yHY7q8PXA34LER21QOqd9nVk0knXmaQ
+vd/3094JDpiKi0hGVfb/Mul0Yvno6g8X1BQ6da5zUCfRZhvwfQs6ypjT4JppaX/ssaTus6Dz3u58IShkzZkuualE2LyOei7i2X1earvRC7ijYF6nrdR51tQrbS52cCs1hU7vXhYcPtepKm3YLDhowLXkSO60KXTi84mtj3W6ap3nd35hF00yU3jqMoVOPKT/c52TRidovdw0QwJBOtDlZVonNtkBE9TUe7bUJXQDy6NpHe1Ch+Cy7LNT8tRma7Lu9K67/n208Ct7yNi0jqSfExEUoR0r+fmf1uvVynx87Z9vg03iyCEBnWSu3gjqgMPj72Iru8yWg9G+v7tCjVDDOk2dDfvHdV6otUf948+4V1lP1IE/hnW0NQFj/vzuZLsd3Mr+dG9lXa2n6HsY1tHcRH1UowTUdOJnSMgUCWNYRx8Vp+vpmNWZ30aCHZAG4tcBZqrs6cQrYiANzCKhLBdP3jrD2FtAjYQJWuRTVe1TLWL5YPNgux0Oh6vVarEYgsFzhnUQFTVjneBQXSUIziMY1qljdHhjbKc+ChzrMayDW5zKKzd1g6hDQSf+uZxn5Je6uIE1hmkdbYs6ngdlcQOD3Uzr/KJ0xCCa4reEugfmdVBVWzg9rShucDZN62AXqvOWm2weSDaIbVwHEfHr848fvpIdkHkGIR8d7MJ7PmYrK26SYAnjOvruNYd//ZLaTbI+wLzOFamz58fDxU3SQzWvox8u4PBBW7AulGXSvI6uLRayUBwv60RY0EFvKiLq4mRxk3bxbOggWwasxBNI1m7SmBAbOri1TVGaiZupfKYxtwkRPp4fr4alOsiWTvQrvLbdFAGUKXSu2xVny4+ZXobhW7weGg8uAsUEGnaHIRHJ+uqvCD+yFJOzR/qI4I94cQP7bXZ1NDOkIWHkWlTSlVP0tnSayLaOaMyExU29s4q18LzpFucjZgx4cdMMKtoLnmzhqutwBnT48kqCzUhd1ErhsD3j30wVMbpPrMZRy/ua
+MS7R0fp1cHaj3Neq4CmBqJibiBX3ttcgIJrXpRTJ2dbx6vLQQ17Y0iy1tK7zuKWohhJv6VY+E9B53IOucCNhcUAsd3uBhI7nL6gsv4Xt7cdpXTw6Oj6tde+w6x67P+PeB8utAyjp5IDToYzToYzToYzToYzToYzToYzToQxe5zBop2afKez2A9A62CmmNwxvcobVQY3wAci2hbCsg5zASGJ2u9Bct2qEMFvasDp9WXZ1mN37FKsz/dAmU8z6/6fjTVBbab5xMr1TaIrbaCs9Jk0C/myroBA4Hco4Hco4Hco4Hco4Hco4Hco4Hcqk0WlmIMekoPRS67Tuyr2hdMz6uSUVsIQDD7E68g3vsIQ7kDWzy/iA+cTqIJesqRDfJ3bBiw5oQPJ/HzaMaOSXVAA05mVB5+Px4Tey6ORQQkRh+3T0/p0sha35L+t/jzbBwq5NVANGiOMr6n5JljCGU2xrk+Yxe90Gbybxl1sFBcDpUMbpUMbpUMbpUMbpUMbpUMbpUMbpUMbpUCaNTp0QmXXmmYemcgXe9Batg908xRjgowXQOrZyLSfLKChiI2nTZBmjRm88ZA5owgpd2JAbpxgEWt+A1sHuSWiMjA+smdw3NTrc4K2Z/nCroAA4Hco4Hco4Hco4Hco4Hco4Hco4Hco4Hco4Hcqk0JlUCZH1oerVfCI4c2OT6cHQBEdBszzR8m4r03KgjBoMC88baFcUrM5Alqg92hl0yM1WZZxBaNjKtQzwSdj4+87vvkGIc+ZnVxUBp0MZp0MZp0MZ8eCL9XfoiGWC9e/QEWFQza/QEduunbyv0BEPOW98h45YSt39Dh1x6fS+QieMG6p/hc6NK/j91OLrhCGEfuBe8XXCpfb+A0gKrxMu2j/7r4quEz32MxjwLbhONNS0D14XWqcVG6V9PrqnyDrxpzPPn28VVmf9sn2xyL7QUT8ykhTTSeWwP8VloqeTCx1WKgosSTRuXQE+LRpn75t04qsSCC6aSMfq
+dXoRfrZ8UVj23uqJSaaNcOxyq3hJyM3hoJiNfiXP8DvQW9aiYNke9Q8dOMLgPxx8pm993PkcAAAAAElFTkSuQmCC</ImageData>
+    </EmbeddedImage>
+  </EmbeddedImages>
+  <rd:ReportUnitType>Inch</rd:ReportUnitType>
+  <rd:ReportID>1f51ce8b-82d6-4262-ac4b-60fcb5a89f79</rd:ReportID>
+</Report>

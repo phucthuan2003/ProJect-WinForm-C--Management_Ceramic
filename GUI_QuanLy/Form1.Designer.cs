@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+<<<<<<< HEAD
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.panelAll = new Bunifu.UI.WinForms.BunifuPanel();
             this.headerControl1 = new GUI_QuanLy.HeaderControl();
@@ -58,11 +59,19 @@
             this.headerControl1.Size = new System.Drawing.Size(1170, 62);
             this.headerControl1.TabIndex = 1;
             // 
+=======
+            this.sidebarControl1 = new GUI_QuanLy.SidebarControl();
+            this.headerControl1 = new GUI_QuanLy.HeaderControl();
+            this.button1 = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+>>>>>>> old-project/Thuan1
             // sidebarControl1
             // 
             this.sidebarControl1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(83)))), ((int)(((byte)(64)))), ((int)(((byte)(118)))));
             this.sidebarControl1.Dock = System.Windows.Forms.DockStyle.Left;
             this.sidebarControl1.Location = new System.Drawing.Point(0, 0);
+<<<<<<< HEAD
             this.sidebarControl1.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.sidebarControl1.Name = "sidebarControl1";
             this.sidebarControl1.Size = new System.Drawing.Size(270, 913);
@@ -78,6 +87,42 @@
             this.Controls.Add(this.sidebarControl1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
+=======
+            this.sidebarControl1.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
+            this.sidebarControl1.Name = "sidebarControl1";
+            this.sidebarControl1.Size = new System.Drawing.Size(306, 857);
+            this.sidebarControl1.TabIndex = 0;
+            // 
+            // headerControl1
+            // 
+            this.headerControl1.Dock = System.Windows.Forms.DockStyle.Top;
+            this.headerControl1.Location = new System.Drawing.Point(306, 0);
+            this.headerControl1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.headerControl1.Name = "headerControl1";
+            this.headerControl1.Size = new System.Drawing.Size(1112, 60);
+            this.headerControl1.TabIndex = 1;
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(424, 184);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 2;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click_1);
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(144F, 144F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
+            this.ClientSize = new System.Drawing.Size(1418, 857);
+            this.Controls.Add(this.button1);
+            this.Controls.Add(this.headerControl1);
+            this.Controls.Add(this.sidebarControl1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+>>>>>>> old-project/Thuan1
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
@@ -89,7 +134,11 @@
 
         private SidebarControl sidebarControl1;
         private HeaderControl headerControl1;
+<<<<<<< HEAD
         private Bunifu.UI.WinForms.BunifuPanel panelAll;
+=======
+        private System.Windows.Forms.Button button1;
+>>>>>>> old-project/Thuan1
     }
 }
 

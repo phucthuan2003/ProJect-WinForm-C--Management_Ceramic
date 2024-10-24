@@ -1,4 +1,5 @@
 ﻿using System;
+<<<<<<< HEAD
 using System.Data.SqlClient;
 using System.Data;
 
@@ -106,5 +107,16 @@ namespace DAL_QuanLy
                 }
             }
         }
+=======
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DAL_QuanLy
+{
+    internal class DAL_HoaVan
+    {
+>>>>>>> old-project/Thuan1
     }
 }

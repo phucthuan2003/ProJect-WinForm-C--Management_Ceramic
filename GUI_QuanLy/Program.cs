@@ -16,7 +16,11 @@ namespace GUI_QuanLy
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+<<<<<<< HEAD
             Application.Run(new Signin());
+=======
+            Application.Run(new Statistics_Report());
+>>>>>>> old-project/Thuan1
         }
     }
 }

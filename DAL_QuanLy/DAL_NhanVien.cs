@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using DTO_QuanLy;
 using System;
 using System.Data;
@@ -254,5 +255,17 @@ namespace DAL_QuanLy
 
             return dataTable;
         }
+=======
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DAL_QuanLy
+{
+    internal class DAL_NhanVien
+    {
+>>>>>>> old-project/Thuan1
     }
 }

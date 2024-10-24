@@ -8,6 +8,7 @@ namespace DTO_QuanLy
 {
     public class DTO_TaiKhoan
     {
+<<<<<<< HEAD
         public string MaTK { get; set; } // Mã tài khoản
         public string MaNV { get; set; } // Mã nhân viên
         public string TenDangNhap { get; set; } // Tên đăng nhập
@@ -26,3 +27,46 @@ namespace DTO_QuanLy
     }
 
 }
+=======
+        private string _TenDangNhap;
+        private string _MatKhau;
+        private string _MaNV;
+        private string _Quyen;
+
+        public string TenDangNhap
+        {
+            get { return _TenDangNhap; }
+            set { _TenDangNhap = value; }
+        }
+
+        public string MatKhau
+        {
+            get { return _MatKhau; }
+            set { _MatKhau = value; }
+        }
+
+        public string MaNV
+        {
+            get { return _MaNV; }
+            set { _MaNV = value; }
+        }
+
+        public string Quyen
+        {
+            get { return _Quyen; }
+            set { _Quyen = value; }
+        }
+
+        public DTO_TaiKhoan() { }
+
+        public DTO_TaiKhoan(string tenDangNhap, string matKhau, string maNV, string quyen)
+        {
+            this.TenDangNhap = tenDangNhap;
+            this.MatKhau = matKhau;
+            this.MaNV = maNV;
+            this.Quyen = quyen;
+        }
+    }
+
+}
+>>>>>>> old-project/Thuan1

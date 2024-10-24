@@ -20,7 +20,11 @@ namespace DTO_QuanLy
         private int _SoLuong;
         private decimal _DonGiaNhap;
         private decimal _DonGiaBan;
+<<<<<<< HEAD
         private byte _Anh;
+=======
+        private string _Anh;
+>>>>>>> old-project/Thuan1
         private string _GhiChu;
 
         public string MaHang { get; set; }
@@ -35,12 +39,20 @@ namespace DTO_QuanLy
         public int SoLuong { get; set; }
         public decimal DonGiaNhap { get; set; }
         public decimal DonGiaBan { get; set; }
+<<<<<<< HEAD
         public byte[] Anh { get; set; }
+=======
+        public string Anh { get; set; }
+>>>>>>> old-project/Thuan1
         public string GhiChu { get; set; }
 
         public DTO_HangHoa() { }
 
+<<<<<<< HEAD
         public DTO_HangHoa(string maHang, string tenHangHoa, string maLoai, string maKichThuoc, string maCongDung, string maLoaiMen, string maHinhKhoi, string maMau, string maNuocSX, int soLuong, decimal donGiaNhap, decimal donGiaBan, byte[] anh, string ghiChu)
+=======
+        public DTO_HangHoa(string maHang, string tenHangHoa, string maLoai, string maKichThuoc, string maCongDung, string maLoaiMen, string maHinhKhoi, string maMau, string maNuocSX, int soLuong, decimal donGiaNhap, decimal donGiaBan, string anh, string ghiChu)
+>>>>>>> old-project/Thuan1
         {
             this.MaHang = maHang;
             this.TenHangHoa = tenHangHoa;

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+<<<<<<< HEAD
 using DTO_QuanLy;
 using System.Data.SqlClient;
 using System.Data;
@@ -139,3 +140,12 @@ namespace DAL_QuanLy
         }
     }
 }
+=======
+
+namespace DAL_QuanLy
+{
+    internal class DAL_NhaCungCap
+    {
+    }
+}
+>>>>>>> old-project/Thuan1

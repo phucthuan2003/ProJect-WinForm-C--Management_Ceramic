@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+<<<<<<< HEAD
 using System.Data.SqlClient;
 using System.Data;
 using DTO_QuanLy;
@@ -121,3 +122,12 @@ namespace DAL_QuanLy
 
     }
 }
+=======
+
+namespace DAL_QuanLy
+{
+    internal class DAL_CongViec
+    {
+    }
+}
+>>>>>>> old-project/Thuan1

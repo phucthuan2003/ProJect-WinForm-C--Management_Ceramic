@@ -1,4 +1,5 @@
 ﻿using System;
+<<<<<<< HEAD
 using System.Data;
 using System.Data.SqlClient;
 
@@ -53,5 +54,16 @@ namespace DAL_QuanLy
                 return result;
             }
         }
+=======
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DAL_QuanLy
+{
+    internal class DAL_ChiTietHoaDonBan
+    {
+>>>>>>> old-project/Thuan1
     }
 }

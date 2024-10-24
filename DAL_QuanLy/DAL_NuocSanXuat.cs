@@ -1,13 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
+<<<<<<< HEAD
 using System.Data.SqlClient;
 using System.Data;
+=======
+>>>>>>> old-project/Thuan1
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace DAL_QuanLy
 {
+<<<<<<< HEAD
     public class DAL_NuocSanXuat : DBConnect
     {
         public DataTable GetNuocSanXuatData()
@@ -105,5 +109,9 @@ namespace DAL_QuanLy
                 }
             }
         }
+=======
+    internal class DAL_NuocSanXuat
+    {
+>>>>>>> old-project/Thuan1
     }
 }
